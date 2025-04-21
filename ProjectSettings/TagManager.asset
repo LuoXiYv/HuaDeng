@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shop
+  - Table
+  - WorkShop
+  - WSDoor
+  - steamer
+  - shelf
+  - pavilion
+  - Bambo
+  - Cargo1
+  - Cargo2
+  - Cargo3
+  - HS
+  - SG
+  - XH
+  - HL
+  - SR
+  - End
+  - A
+  - Bxs
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Shop
+  - Water
+  - UI
+  - Work shop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - C
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1106868653
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2083960503
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1074567537
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 640552695
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 2172721919
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 3271036795
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 2012802335
+    locked: 0
